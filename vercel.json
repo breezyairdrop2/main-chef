@@ -1,5 +1,5 @@
 {
     "build": {
-      "distDir": "build"
+      "distDir": ".fleek"
     }
   }
