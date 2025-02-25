@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    distDir: 'build', // Change '.next' to 'build'
+    distDir: '.fleek', // Change '.next' to 'build'
     output: undefined, // Keep SSR enabled
   };
   
